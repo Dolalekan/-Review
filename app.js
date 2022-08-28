@@ -3,14 +3,14 @@
 const reviews=[
   {
     id:0,
-    name:"Daniel lekan",
+    name:"Leirnad",
     job:"frontend developer",
     text:"lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
     img:"person-1.png"
   },
   {
     id:1,
-    name:"Daniel Itunu",
+    name:"Hitee",
     job:"product manager",
     text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
     img:"comrade.png"
