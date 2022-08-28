@@ -1,0 +1,66 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  min-width:100%;
+  min-height:100%;
+  font: Arial 14px;
+  background-color:#f7ffff
+}
+.review{
+ text-align:center;
+ background-color:#fff5ff;
+ border-color:grey;
+ width:320px;
+ margin-left:30px;
+ height:320px;
+}
+#person-img{
+  width:100px;
+  border-radius:50%;
+  height:80px;
+  margin-top:15px;
+}
+.title{
+  text-align:center;
+  margin-top:60px;
+}
+#author{
+  font-weight:medium;
+  font-family:roboto;
+  letter-spacing:1px;
+  font-size:20px
+  
+}
+#info{
+  font-family:roboto;
+  font-size:15px;
+  width:330px;
+  margin-bottom:10px;
+}
+#job{
+  margin-bottom:15px;
+  font-weight:medium;
+  font-size:22px;
+}
+.prev-btn{
+  background:transparent;
+  width:100px;
+  height:30px;
+  border-radius:20px;
+}
+.next-btn{
+  background:transparent;
+  width:100px;
+  height:30px;
+  border-radius:20px;
+}
+.next-btn:hover{
+  color:black;
+  background-color:#d5ffe6;
+  transition:0.25s;
+}
+.prev-btn:hover{
+  color:black;
+  background-color:#d5ffe6;
+  transition:0.25s;
+}
